@@ -41,6 +41,7 @@ h2 {
     font-family: 'Libre Baskerville', 'Georgia', serif;
     font-size: 50px;
     color: #005D07;
+    letter-spacing: 3px;
 }
 
 .quench1 {
@@ -52,4 +53,19 @@ h2 {
     font-family: 'Noto Serif Display', 'Source serif pro', serif;
     color: #ab6900;
     font-style: italic;
+}
+
+.sarah {
+    color: red;
+    font-weight: 700;
+}
+
+.earth {
+    color: green;
+    font-style: italic;
+}
+
+p {
+    line-height: 2em ;
+    word-spacing: 1px ;
 }
